@@ -1,7 +1,7 @@
 ### car-counting-with-python
 
 ``` 
-Car counting process made with  Numpy, opencv on python.
+Car counting process was made with  Numpy, opencv on python.
 ``` 
 if you wanna to watch the video as result of this project you can click and watch on youtube
 - for	counting_car.py_1 project you can watch this video : [![Watch the video](https://youtu.be/Oq7JGBhgvl4)](https://youtu.be/Oq7JGBhgvl4)
